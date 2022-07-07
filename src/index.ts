@@ -4,7 +4,7 @@ import { URL } from 'url';
 import path from 'path';
 
 const {
-  PAGE_URL = 'https://greencast.notion.site/Greencast-refer-a-friend-fb27b53792df4bfd8ac3e8cf607c34f3',
+  PAGE_URL = 'https://borjasoler.notion.site/Diventa-Dev-0defeb64da524454aa37c0252f44ed36',
   GA_TRACKING_ID,
 } = process.env;
 
